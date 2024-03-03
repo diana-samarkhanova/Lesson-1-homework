@@ -9,4 +9,5 @@ public class Task4 {
 
         System.out.println(empl1 + "\n" + empl2 + "\n" + empl3);
     }
+
 }

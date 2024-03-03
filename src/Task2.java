@@ -13,4 +13,5 @@ public class Task2 {
         String a3 = "Hello";
         System.out.println(a3); //output: Hello
     }
+
 }

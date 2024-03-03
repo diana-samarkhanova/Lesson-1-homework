@@ -11,6 +11,7 @@ public class Task3 {
         int age = 25; //defining a variable for employee's age
         String city = "Astana"; //defining a variable for employee's living city
 
+
         age = 26; //changing the age of the employee
         System.out.println(firstname + "\n"+ lastname + "\n" + patronymic + "\n" + age + "\n" + city);
     }
